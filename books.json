@@ -1,0 +1,11 @@
+[{
+    "id" : "12345",
+    "title" : "some book",
+    "author" : "me"
+
+},
+{
+    "id" : "54321",
+    "title" : "another book",
+    "author" : "someone"
+}]
